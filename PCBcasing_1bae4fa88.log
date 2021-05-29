@@ -1,0 +1,394 @@
+[ AutoCAD - Sat May 29 14:05:50 2021  ]----------------------------------------
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point] <8.0000>: 2
+
+Command:  
+Command:  
+Command:  
+Command:  
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]:  
+Resuming CIRCLE command.
+
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Specify height or [2Point] <2.0000>: 2
+
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command:  
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _centermark 
+Select circle or arc to add center mark: 
+Select circle or arc to add center mark: 
+Select circle or arc to add center mark: 
+Select circle or arc to add center mark: 
+Select circle or arc to add center mark: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <2.5350>: _d Specify diameter of circle <5.0700>: 5.07
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <2.5350>: _d Specify diameter of circle <5.0700>: 5.07
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <2.5350>: _d Specify diameter of circle <5.0700>: 5.07
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <2.5350>: _d Specify diameter of circle <5.0700>: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: *Cancel*
+
+Command: 
+Command: 
+Command: _circle 
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 
+Specify radius of circle or [Diameter] <2.5350>: _d Specify diameter of circle <5.0700>: 5.07
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <2.0000>: 0.76
+
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.7600>: 0.76
+
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.7600>: 0.76
+
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression] <0.7600>: 0.76
+
+
+Command: 
+Command: 
+Command: _extrude 
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: _MO Closed profiles creation mode [SOlid/SUrface] <Solid>: _SO
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: SUBR
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: *Cancel*
+
+Command: SUBR
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 1 found, 2 total
+
+Select objects: 1 found, 3 total
+
+Select objects: 1 found, 4 total
+
+Select objects: 
+
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: _box 
+Specify first corner or [Center]: 
+Specify other corner or [Cube/Length]: 
+Command: SUBR
+SUBTRACT Select solids, surfaces, and regions to subtract from ..
+
+Select objects: 1 found
+
+Select objects: 
+Select solids, surfaces, and regions to subtract ..
+Select objects: 1 found
+
+Select objects: 
+
+
+Automatic save to C:\Users\12000189\AppData\Local\Temp\PCBcasing_1_7664_8faec655.sv$ ...
+
+Command: 
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command: 
+Command: 
+Command: 
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Command:  
+Window Lasso  Press Spacebar to cycle options
+Command: *Cancel*
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Window Lasso  Press Spacebar to cycle options
+Command: 
+Command: 
+
+
+Command: 
+Command:  
+Command:  
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command:  
+Command:  
+Command:  
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u DROPGEOM GROUP 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIZOOM 
+Command: _u 
+Command: _u '.VIEWCUBEACTION 
+Command: _u INTELLIZOOM 
+Command:  
+Command:  
+Command:  
+Command:  

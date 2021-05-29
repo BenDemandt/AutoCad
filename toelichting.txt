@@ -1,0 +1,20 @@
+Mijn PCB zal dienen als een environmental sensor welke straling opmeet.
+
+een van de belangrijkste aspecten in dit ontwerp is de GM tube welke wordt vastgezet tussen zekering houders.
+Omwille van onbeschikbaarheid van de originele zekeringhouders zijn er andere gebruikt waardoor de buis lichtjes
+langs de pcb hangt, dit is ook te zien aan de opening in de casing.
+
+
+een 2de belangrijk onderdeel is het lcd scherm, hierop worden de opgemeten waardes weergegeven.
+er is bovenin de casing een opening waar het lcd scherm zit waardoor het mogelijk is om de waardes te kunnen aflezen
+
+er zijn ook enkele andere openingen voor ondere de esp 32, hier wordt een usb kabel op aangesloten om de sensor te 
+programmeren. er is ook een opening voor de rj45 jacks welke ervoor zorgen dat het boort met een ethernet verbinding kan worden 
+aangesloten. een andere opening is voor de powerjack en ten laatste nog een openening aan de bovenkant voor de 
+3 pushbuttons.
+
+het idee was om de casing te laten 3d printen, dit leek me de gemakkelijkste optie om te doen en zou niet te veel 
+moeite kosten in assemblage.
+
+Mijn logo heeft niet bepaald een betekenis. ik heb gewoon in autocad wat proberen maken dat er wat goed uit zag 
+en hetgeen wat het nu is, is uitendelijk mijn eindresultaat geworden.
